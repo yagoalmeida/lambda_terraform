@@ -8,7 +8,7 @@ on:
 
 jobs:
   terraform:
-      uses: "yagoalmeida/cicd_centralizado/.github/workflows/terraform_centralizado.yaml@0.0.1"
+      uses: "yagoalmeida/cicd_tf_centralizado/.github/workflows/terraform_centralizado.yaml@0.0.1"
       with:
         tf_version: "1.0.9"
         os_version: "ubuntu-20.04"
