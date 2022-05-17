@@ -39,5 +39,8 @@ resource "aws_lambda_function" "test_lambda" {
       teste = "teste"
     }
   }
+  tracing_config {
+    mode = "Active"
+  }
 }
 
