@@ -25,6 +25,7 @@ desse [repositório](https://github.com/yagoalmeida/shared-storage-terraform-sta
 
 * Para que as actions do github funcionem, basta configurar as secrets `AWS_ACCESS_KEY_ID` e `AWS_SECRET_ACCESS_KEY` no
   seu repositório.
+* Caso queira entender um pouco mais sobre essa action, basta acessar esse [repositório](https://github.com/yagoalmeida/terraform_actions).
 
 ### Executando localmente
 
