@@ -39,4 +39,4 @@ desse [repositório](https://github.com/yagoalmeida/shared-storage-terraform-sta
     * `terraform apply -lock=false`
 
 Após isso basta acessar a sua conta na AWS, enviar um evento de teste para sua lambda e partir para as próximas criações
-de recursos na Cloud via Terraform :).
+de recursos na Cloud via Terraform :). 
