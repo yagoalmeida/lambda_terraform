@@ -1,6 +1,6 @@
 [![Pipeline IAC](https://github.com/yagoalmeida/lambda_terraform/actions/workflows/pipe.yaml/badge.svg?branch=main)](https://github.com/yagoalmeida/lambda_terraform/actions/workflows/pipe.yaml)
 
-# lambda_iac_terraform
+#lambda_iac_terraform
 
 Repositório de exemplo para criação de uma lambda function na AWS utilizando Terraform como IaC.
 
